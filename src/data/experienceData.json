@@ -1,0 +1,38 @@
+{
+    "experiences": [
+    {
+        "companyName":"Rogers Communications", 
+        "time": "Apr 2023 - Present", 
+        "jobTitle": "Software Developer", 
+        "image": "/assets/work/rogers.png"
+
+    }, 
+    {
+        "companyName":"Rogers Communications", 
+        "time": "May 2022 - Apr 2023", 
+        "jobTitle": "Backend Developer",
+        "image": "/assets/work/rogers.png"
+
+    }, 
+    {
+        "companyName":"IBM", 
+        "time": "Sep 2021 - Dec 2021", 
+        "jobTitle": "Technical Consultant Intern", 
+        "image": "/assets/work/ibm.jpg"
+
+    },
+    {
+        "companyName":"The DNA company", 
+        "time": "Apr 2021 - Jul 2021", 
+        "jobTitle": "Freelance Frontend Developer",
+        "image": "/assets/work/dna.jpg"
+
+    },
+    {
+        "companyName":"CASRA Cyber Security & Beyond", 
+        "time": "Apr 2021 - Jul 2021", 
+        "jobTitle": "Freelance Frontend Developer", 
+        "image": "/assets/work/casra.png"
+    }
+]
+}

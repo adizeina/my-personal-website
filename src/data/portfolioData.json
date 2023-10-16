@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "name":"WorldWide Weather Application", 
+            "techstack": "React, OpenWeather API", 
+            "image": "/assets/projects/project.png",  
+            "github": ""
+        }, 
+        {
+            "name":"Student Grade Application", 
+            "techstack": "Angular", 
+            "image": "/assets/projects/travel-blog.png", 
+            "github": ""
+        }, 
+        {
+            "name":"Ecommerce Shoe Shop Application", 
+            "techstack": "TBD", 
+            "image": "/assets/projects/project.png",
+            "github": ""
+        }, 
+        {
+            "name":"My Travel Blog", 
+            "techstack": "React, OpenWeather API", 
+            "image": "/assets/projects/project.png", 
+            "github": ""
+        }, 
+        {
+            "name":"Personal Portfolio Version 2019", 
+            "techstack": "HTML, CSS, Javascript, Bootstrap", 
+            "image": "/assets/projects/project.png", 
+            "github": ""
+        } 
+    ]   
+}
